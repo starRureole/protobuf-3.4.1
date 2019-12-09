@@ -1,0 +1,11 @@
+/home/fcz/tools/protobuf-3.4.1/build/CMakeFiles/install.dir
+/home/fcz/tools/protobuf-3.4.1/build/CMakeFiles/js_embed.dir
+/home/fcz/tools/protobuf-3.4.1/build/CMakeFiles/libprotobuf.dir
+/home/fcz/tools/protobuf-3.4.1/build/CMakeFiles/libprotoc.dir
+/home/fcz/tools/protobuf-3.4.1/build/CMakeFiles/libprotobuf-lite.dir
+/home/fcz/tools/protobuf-3.4.1/build/CMakeFiles/edit_cache.dir
+/home/fcz/tools/protobuf-3.4.1/build/CMakeFiles/protoc.dir
+/home/fcz/tools/protobuf-3.4.1/build/CMakeFiles/list_install_components.dir
+/home/fcz/tools/protobuf-3.4.1/build/CMakeFiles/install/strip.dir
+/home/fcz/tools/protobuf-3.4.1/build/CMakeFiles/install/local.dir
+/home/fcz/tools/protobuf-3.4.1/build/CMakeFiles/rebuild_cache.dir
